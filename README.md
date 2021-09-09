@@ -1,3 +1,2 @@
 # testTaskPalindrome
-Task
-![alt text](Screenshot_7.png "Описание будет тут")​
+![alt text](Screenshot_7.png "Task")​
